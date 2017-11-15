@@ -1,4 +1,4 @@
-# Open HPC research tools
+# RPM research tools
 ## Introduction
 	This package contains some tools for investigate constituion of OpenHPC.
 
